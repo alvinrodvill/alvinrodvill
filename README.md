@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Alvin R. Villanueva and I'm 21 yrs old, from Kalibo,Aklan</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">📚 I'm currently pursuing my bachelor's degree in computer science<br>🎯 Goals: To be a Programmer<br></p>
 
 ###
 
