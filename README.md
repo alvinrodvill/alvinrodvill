@@ -26,6 +26,6 @@
 
 ###
 
-<p align="left">I'm Alvin R. Villanueva from Libertad, Nabas, Aklan<br><br>- 📚 I am currently taking my Bachelor's Degree in Computer Science<br>- ⚡ In my free time I play online games</p>
+<p align="left">I'm Alvin R. Villanueva from Libertad, Nabas, Aklan<br><br>- 📚 I am currently taking my Bachelor's Degree in Computer Science<br>- ⚡ In my free time I like to play online games</p>
 
 
