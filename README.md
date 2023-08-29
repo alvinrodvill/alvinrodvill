@@ -28,19 +28,4 @@
 
 <p align="left">I'm Alvin R. Villanueva from Libertad, Nabas, Aklan<br><br>- 📚 I am currently fourth year college and studying my bachelor's degree in computer science<br>- ⚡ In my free time I play online games</p>
 
-###
 
-<h3 align="left">🛠 Language and tools</h3>
-
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
